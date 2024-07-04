@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "myproject": "^0.1.0",
+    "run": "^1.5.0"
+  }
+}
